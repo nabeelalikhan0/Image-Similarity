@@ -17,7 +17,7 @@ This project is a Streamlit web app that performs **image similarity search** us
 
 ## 🖼️ Demo
 
-<img src="https://github.com/your-username/image-similarity-vits/blob/main/demo.gif" width="100%"/>
+<img src="https://github.com/nabeelalikhan0/Image-Similarity/demo.png" width="100%"/>
 
 ---
 
