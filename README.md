@@ -1,7 +1,7 @@
 
 ---
 
-````markdown
+
 # 🧠 Image Similarity Search using Vision Transformer (ViT)
 
 This project is a Streamlit web app that performs **image similarity search** using **Vision Transformer (ViT)** embeddings. Upload an image, and the model finds the most visually similar images from your dataset based on their ViT-generated embeddings.
@@ -43,7 +43,7 @@ This project is a Streamlit web app that performs **image similarity search** us
 ├── images/                   # Folder containing dataset images
 ├── requirements.txt          # Dependencies
 └── README.md                 # This file
-````
+
 
 ---
 
